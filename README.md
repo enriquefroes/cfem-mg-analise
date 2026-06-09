@@ -75,7 +75,7 @@ Todas as bibliotecas já vêm instaladas por padrão no Google Colab — não é
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 ### Pré-requisitos
 - Conta Google (para usar o Colab e o Drive)
