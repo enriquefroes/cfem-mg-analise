@@ -9,11 +9,10 @@ Análise da arrecadação de CFEM (Compensação Financeira pela Exploração de
 A CFEM é o royalty pago pelas empresas mineradoras ao governo pela extração de recursos minerais. Este projeto analisa como essa arrecadação se distribui entre os municípios de Minas Gerais, como evoluiu ao longo do tempo e qual o seu peso na economia local em relação ao PIB municipal.
 
 Destaques da análise:
-- Ranking dos maiores municípios arrecadadores em dois períodos (2017–2021 e 2022–2026)
+- Ranking dos maiores municípios arrecadadores em dois períodos (2017–2021 e 2022–2026*)
 - Impacto do rompimento da barragem B1 de Brumadinho (jan/2019) na arrecadação
 - Relação CFEM × PIB municipal para medir dependência da mineração
 - Composição por substância mineral (ferro, ouro e demais)
-
 ---
 
 ## Estrutura do repositório
@@ -47,6 +46,12 @@ cfem-mg-analise/
 ### Composição mineral
 > O minério de ferro responde pela maior parte de toda a arrecadação CFEM de Minas Gerais no período analisado.
 
+<img width="2384" height="1066" alt="nb2_ranking_comparativo" src="https://github.com/user-attachments/assets/435ff28b-7cd8-4aa1-84cb-735b6d67b43a" />
+<img width="2084" height="731" alt="nb4_brumadinho_serie" src="https://github.com/user-attachments/assets/76d8c9ee-f7b9-469b-8556-eecc9dd30ce0" />
+<img width="1784" height="731" alt="nb5_ferro_vs_ouro" src="https://github.com/user-attachments/assets/c8ff0991-681c-4cf0-aa2e-c4d469cb7904" />
+
+
+
 ---
 
 ## Dados
@@ -54,10 +59,13 @@ cfem-mg-analise/
 | Arquivo | Fonte | Período | Download |
 |---|---|---|---|
 | `CFEM_Arrecadacao_2017_2021.xlsx` | ANM — Agência Nacional de Mineração | 2017–2021 | [sistemas.anm.gov.br](https://sistemas.anm.gov.br) |
-| `CFEM_Arrecadacao_2022_2026.csv` | ANM — Agência Nacional de Mineração | 2022–2026 | [sistemas.anm.gov.br](https://sistemas.anm.gov.br) |
+| `CFEM_Arrecadacao_2022_2026.csv` | ANM — Agência Nacional de Mineração | jan/2022–abr/2026 (maio/2026 parcial) | [sistemas.anm.gov.br](https://sistemas.anm.gov.br) |
 | PIB Municipal 2021 e 2023 | IBGE — PIB dos Municípios | 2021, 2023 | [ibge.gov.br](https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html) |
 | População | IBGE — Censo Demográfico 2022 | 2022 | [ibge.gov.br](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html) |
 
+> **Nota metodológica:** o arquivo de 2022–2026 contém dados completos até abril/2026.
+> O mês de maio/2026 possui apenas lançamentos parciais (1.986 registros vs ~13.000 em meses completos)
+> e pode subestimar a arrecadação real desse mês.
 ---
 
 ## Tecnologias
