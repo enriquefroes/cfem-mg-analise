@@ -108,13 +108,13 @@ Todas as bibliotecas já vêm instaladas por padrão no Google Colab — não é
 
 ## Fontes — ABNT
 
-AGÊNCIA NACIONAL DE MINERAÇÃO (Brasil). **Sistema de Informações Geográficas da Mineração — SIGMINE: arrecadação CFEM**. Brasília: ANM, 2026. Disponível em: https://sistemas.anm.gov.br. Acesso em: 7 jun. 2026.
+AGÊNCIA NACIONAL DE MINERAÇÃO (Brasil). **Sistema de Informações Geográficas da Mineração — SIGMINE: arrecadação CFEM**. Brasília: ANM, 2026. Disponível em: https://sistemas.anm.gov.br. Acesso em: 1 jun. 2026.
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **PIB dos municípios: 2021**. Rio de Janeiro: IBGE, 2023. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html. Acesso em: 7 jun. 2026.
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **PIB dos municípios: 2021**. Rio de Janeiro: IBGE, 2023. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html. Acesso em: 1 jun. 2026.
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **PIB dos municípios: 2023**. Rio de Janeiro: IBGE, 2025. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html. Acesso em: 7 jun. 2026.
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **PIB dos municípios: 2023**. Rio de Janeiro: IBGE, 2025. Disponível em: https://www.ibge.gov.br/estatisticas/economicas/contas-nacionais/9088-produto-interno-bruto-dos-municipios.html. Acesso em: 1 jun. 2026.
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Censo Demográfico 2022: resultados do universo**. Rio de Janeiro: IBGE, 2023. Disponível em: https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html. Acesso em: 7 jun. 2026.
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Censo Demográfico 2022: resultados do universo**. Rio de Janeiro: IBGE, 2023. Disponível em: https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html. Acesso em: 1 jun. 2026.
 
 ---
 
